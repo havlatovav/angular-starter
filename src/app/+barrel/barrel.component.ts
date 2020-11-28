@@ -25,7 +25,7 @@ console.log('`Barrel` component loaded asynchronously');
 export class BarrelComponent implements OnInit {
 
   public ngOnInit() {
-    console.log('hello `Barrel` component');
+    console.log('hello `Bl` component');
   }
 
 }
